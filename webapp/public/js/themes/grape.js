@@ -1,4 +1,8 @@
-{
+/*
+ Credits: https://github.com/mbadolato/iTerm2-Color-Schemes
+*/
+
+var colors = {
   "name": "Grape",
   "colors": {
     "ansi_0_color": "#2d283f",

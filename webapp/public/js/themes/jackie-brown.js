@@ -1,4 +1,8 @@
-{
+/*
+ Credits: https://github.com/mbadolato/iTerm2-Color-Schemes
+*/
+
+var colors = {
   "name": "Jackie Brown",
   "colors": {
     "ansi_0_color": "#2c1d16",

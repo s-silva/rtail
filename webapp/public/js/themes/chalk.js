@@ -1,4 +1,8 @@
-{
+/*
+ Credits: https://github.com/mbadolato/iTerm2-Color-Schemes
+*/
+
+var colors = {
   "name": "Chalk",
   "colors": {
     "ansi_0_color": "#7d8b8f",

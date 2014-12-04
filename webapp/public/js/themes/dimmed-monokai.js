@@ -1,4 +1,8 @@
-{
+/*
+ Credits: https://github.com/mbadolato/iTerm2-Color-Schemes
+*/
+
+var colors = {
   "name": "DimmedMonokai",
   "colors": {
     "ansi_0_color": "#3a3d43",

@@ -1,4 +1,8 @@
-{
+/*
+ Credits: https://github.com/mbadolato/iTerm2-Color-Schemes
+*/
+
+var colors = {
   "name": "ToyChest",
   "colors": {
     "ansi_0_color": "#2c3f58",

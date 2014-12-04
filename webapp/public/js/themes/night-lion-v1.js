@@ -1,4 +1,8 @@
-{
+/*
+ Credits: https://github.com/mbadolato/iTerm2-Color-Schemes
+*/
+
+var colors = {
   "name": "NightLion v1",
   "colors": {
     "ansi_0_color": "#4c4c4c",

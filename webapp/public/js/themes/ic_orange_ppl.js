@@ -1,4 +1,8 @@
-{
+/*
+ Credits: https://github.com/mbadolato/iTerm2-Color-Schemes
+*/
+
+var colors = {
   "name": "IC_Orange_PPL",
   "colors": {
     "ansi_0_color": "#000000",

@@ -1,4 +1,8 @@
-{
+/*
+ Credits: https://github.com/mbadolato/iTerm2-Color-Schemes
+*/
+
+var colors = {
   "name": "IC_Green_PPL",
   "colors": {
     "ansi_0_color": "#1f1f1f",

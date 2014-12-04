@@ -1,4 +1,8 @@
-{
+/*
+ Credits: https://github.com/mbadolato/iTerm2-Color-Schemes
+*/
+
+var colors = {
   "name": "Pnevma",
   "colors": {
     "ansi_0_color": "#2f2e2d",

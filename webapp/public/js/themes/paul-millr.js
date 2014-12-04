@@ -1,4 +1,8 @@
-{
+/*
+ Credits: https://github.com/mbadolato/iTerm2-Color-Schemes
+*/
+
+var colors = {
   "name": "PaulMillr",
   "colors": {
     "ansi_0_color": "#2a2a2a",

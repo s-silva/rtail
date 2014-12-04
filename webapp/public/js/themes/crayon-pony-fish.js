@@ -1,4 +1,8 @@
-{
+/*
+ Credits: https://github.com/mbadolato/iTerm2-Color-Schemes
+*/
+
+var colors = {
   "name": "CrayonPonyFish",
   "colors": {
     "ansi_0_color": "#2b1b1d",
